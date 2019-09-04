@@ -1,0 +1,46 @@
+{
+  "name": "JPPA_Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npm run tsc",
+    "tsc": "tsc",
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor",
+    "jasmine",
+    "typescript",
+    "javascript",
+    "angular",
+    "angularjs",
+    "vscode",
+    "testing",
+    "selenium",
+    "webdriverJS",
+    "automation testing"
+  ],
+  "author": "Learning 2 Test",
+  "license": "MIT",
+  "dependencies": {
+    "@types/nconf": "^0.10.0",
+    "@types/node": "^12.7.4",
+    "fs-extra": "^8.1.0",
+    "jasmine": "^3.4.0",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine-spec-reporter": "^4.2.1",
+    "log4js": "^5.1.0",
+    "log4js-protractor-appender": "^1.1.2",
+    "nconf": "^0.10.0",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.3.0",
+    "protractor-html-reporter": "^1.3.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.4.0"
+  }
+}
