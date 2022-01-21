@@ -30,7 +30,7 @@
     "jasmine": "^3.4.0",
     "jasmine-reporters": "^2.3.2",
     "jasmine-spec-reporter": "^4.2.1",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "log4js-protractor-appender": "^1.1.2",
     "nconf": "^0.10.0",
     "protractor": "^5.4.2",
